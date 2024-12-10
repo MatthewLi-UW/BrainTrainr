@@ -1,1 +1,1 @@
-[Sample Deployment](braintrainr.vercel.app)
+[Sample Deployment]([braintrainr.vercel.app](https://braintrainr.vercel.app/))
