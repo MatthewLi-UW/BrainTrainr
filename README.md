@@ -48,8 +48,3 @@ BrainTrainr is your AI-powered learning assistant, designed to break down comple
 - **Authentication:** Integrated **Auth0** to ensure secure and hassle-free user authentication.
 
 ---
-
-## 🎯 Why BrainTrainr?
-- **Visual Learning:** Experience knowledge like never before with interactive concept maps.
-- **Tailored Guidance:** Customize your learning journey based on your curiosity.
-- **Seamless Integration:** Whether it's a question, a link, or a document, BrainTrainr adapts to your learning style.
